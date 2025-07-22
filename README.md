@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/598d51e1-5f31-4cdf-a60f-86483e23e341" />
+<img width="180" height="180" alt="logo" src="https://github.com/user-attachments/assets/598d51e1-5f31-4cdf-a60f-86483e23e341" />
 
 # CMS WebRTC Simulator
 
