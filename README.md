@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/598d51e1-5f31-4cdf-a60f-86483e23e341" />
+
 # CMS WebRTC Simulator
 
 This project provides a powerful suite of tools to simulate a high volume of simultaneous WebRTC guest joins to a Cisco Meeting Server (CMS). It is designed to be a self-contained, "one-click" solution for Windows nodes, allowing you to easily generate significant load on your CMS infrastructure to test performance and stability.
